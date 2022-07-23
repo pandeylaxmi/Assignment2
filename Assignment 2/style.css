@@ -1,0 +1,41 @@
+ body{
+ 	margin: 5px;
+ 	background-color: #f1f1f1;
+ 
+ }
+ header{
+ 	background: skyblue;
+ 	padding: 20px;
+ 	text-align: center;
+ 	color: black;
+ 	font-family: Arial;
+
+ }
+  .column{
+  	float: left;
+  	padding: 10px;
+ } 
+ .column.side{
+ 	width: 40%;
+ } 
+ #img{
+ 	float: left;
+ 	
+ }
+  .column.middle{
+  	width: 40%;
+  }
+   .column.side{
+   	width: 40%;
+   }
+   {*/This is a paragraph*/
+   }
+   footer{
+   	       clear: both;
+   	       background-color: deepskyblue;
+           padding: 20px;
+           text-align: center;
+           color: black;
+   }
+    
+    
